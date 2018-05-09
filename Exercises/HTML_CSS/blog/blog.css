@@ -1,0 +1,28 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+  /* The width will stay at 700 px as long as it can until 80% takes over */
+  max-width: 700px;
+  width: 80%;
+  border: 20px solid #bdc3c7;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.date{
+  color: #3498db;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #2c3e50;
+  font-size: 40px;
+}
+
+.left_border{
+  border-left: 10px solid #bdc3c7;
+  padding-left: 10px;
+}
